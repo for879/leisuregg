@@ -1,10 +1,4 @@
---[[
-    leisure.gg - Complete Combat Script
-    Made by @x_vvw
-    For Da Strike / Da Uphill
-]]
-
---// SILENT AIM - Da Strike / Da Uphill
+-- @x_vvw
 
 getgenv().ResolveKey = "C"
 getgenv().CamlockKey = "F"
